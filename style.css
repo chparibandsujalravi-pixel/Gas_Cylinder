@@ -1,0 +1,13 @@
+.nagar{
+    background-color: pink;
+}
+.grey{
+    background-color: grey;
+}
+tr.grey td {
+    border: none !important;
+    padding: 0 !important;
+}
+.skyblue{
+    background-color: skyblue;
+}
